@@ -18,7 +18,7 @@ After finished building molly and made connections;
 6. Upload Main.ino to the Arduino
 7. Take great shots!
 
-How to use molly
+## How to use molly
 First switch on!
 1-9 buttons on remote sets the speed.
 "-" and "+" buttons decrease and increase the speed
